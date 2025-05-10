@@ -1,6 +1,6 @@
 # Dependabot Demo
 
-This is a simple project created to demonstrate how GitHub Dependabot detects and updates vulnerable dependencies.
+This is a simple Node.js project created to demonstrate how GitHub Dependabot detects and updates vulnerable dependencies.
 
 ## ⚠️ Purpose
 
@@ -13,12 +13,6 @@ Dependabot is configured to automatically scan and open pull requests when safer
 - `index.js` – Basic use of lodash
 - `package.json` – Defines dependencies
 - `.github/dependabot.yml` – Enables Dependabot for npm
-
-## ✅ How to trigger Dependabot
-
-1. Enable Dependabot under repository settings
-2. Push the `dependabot.yml` file
-3. Watch GitHub open a PR automatically
 
 ## 💡 CVE Reference
 
